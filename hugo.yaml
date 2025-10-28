@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base:
+    base: https://arilewis.github.io
